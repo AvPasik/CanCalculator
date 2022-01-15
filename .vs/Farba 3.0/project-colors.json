@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a3900ed1-5c22-440b-935f-c6324b5a089d": {
+      "ProjectGuid": "a3900ed1-5c22-440b-935f-c6324b5a089d",
+      "DisplayName": "Farba 3.0",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

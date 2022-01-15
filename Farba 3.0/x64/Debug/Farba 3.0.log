@@ -1,0 +1,5 @@
+﻿  Farba 3.0.cpp
+C:\Users\avpas\source\repos\Farba 3.0\Farba 3.0\Farba 3.0.cpp(49,28): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\avpas\source\repos\Farba 3.0\Farba 3.0\Farba 3.0.cpp(55,28): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\avpas\source\repos\Farba 3.0\Farba 3.0\Farba 3.0.cpp(88,29): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+  Farba 3.0.vcxproj -> C:\Users\avpas\source\repos\Farba 3.0\x64\Debug\Farba 3.0.exe
