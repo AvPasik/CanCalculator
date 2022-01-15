@@ -1,4 +1,13 @@
-﻿#include <iostream>
+﻿//Version 0.001 alpha
+
+
+
+
+
+
+
+
+#include <iostream>
 #include <stdio.h>    
 #include <math.h>  
 
